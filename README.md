@@ -1,41 +1,58 @@
- <h1 align="left">Hey 👋 What's up?</h1>
+  Hey 👋 What's up?  
 
-###
+   I'm Aman Mishra
 
-<p align="left">My name is ...Aman Mishra</p>
+  
+🚀 Passionate Full Stack Developer | Python | Django | MySQL  
+ 
 
-###
+---
 
-<h2 align="left">About me</h2>
+## **💡 About Me**  
+🚀 **What I Do?**  
+✔️ Build **full-stack web applications** using **Python & Django**.  
+✔️ Design **responsive and modern UIs** with **HTML, CSS, and Bootstrap**.  
+✔️ Manage **databases** and optimize **MySQL queries**.  
+✔️ Work with **API integrations** to connect different services seamlessly.  
 
-###
+📚 **Currently Learning:**  
+⚡ **React.js & Advanced Django** to enhance my full-stack development skills.  
+🔍 Exploring **best practices in backend optimization & API development**.  
 
-<p align="left">💡 What I Do?<br>🚀 Build full-stack web applications using Python & Django.<br>🎨 Design responsive and modern UIs with HTML, CSS, and Bootstrap.<br>🗄 Manage databases and optimize MySQL queries.<br>🔗 Work with API integrations to connect different services seamlessly.<br><br>📚 Currently Learning:<br>⚡ React.js & Advanced Django to enhance my full-stack development skills.<br>🔍 Exploring best practices in backend optimization & API development.<br><br>🤝 Looking to Collaborate On:<br>💻 Full Stack Python Web Development projects.<br>🛠 Open-source contributions & exciting tech challenges.<br><br>📫 Connect with Me!<br>🔗 LinkedIn<br>🐙 GitHub</p>
+🤝 **Looking to Collaborate On:**  
+💻 **Full Stack Python Web Development** projects.  
+🛠 **Open-source contributions & exciting tech challenges**.  
 
-###
+📫 **Connect with Me!**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/Aman-SM/)  
+🐙 [**GitHub**](https://github.com/Aman-859)  
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## **🚀 I Code With:**  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+</div>  
 
-###
+---
 
-<p align="left">print("Hello, World! 👋 I'm Aman S Mishra, a passionate Full Stack Developer! 🚀")  <br>print("Currently learning React.js & Advanced Django to build amazing web applications! 💻")</p>
+## **🐍 Fun Python Code:**  
 
-###
+```python
+print("Hello, World! 👋 I'm Aman S Mishra, a passionate Full Stack Developer! 🚀")  
+print("Currently learning React.js & Advanced Django to build amazing web applications! 💻")  
