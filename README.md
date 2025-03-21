@@ -25,7 +25,7 @@
 
 📫 **Connect with Me!**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/Aman-SM/)  
-🐙 [**GitHub**](https://github.com/Aman-859)  
+ 
 
 ---
 
@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+ 
 </div>  
 
 ---
